@@ -4,7 +4,7 @@ const html404 = `<!DOCTYPE html>
   <p>The url you visit is not found.</p>
 </body>`
 
-const statichtml = "https://wlnxing.github.io/URL-Shorten-Worker/index.html"
+const statichtml = "https://raw.githubusercontent.com/itnn/URL-Shorten-Worker/master/index.html"
 
 
 async function randomString (len) {
